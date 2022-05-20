@@ -1,0 +1,401 @@
+,Movie Name,Movie Date,Movie Link,Movie Certification,Movie Type,Movie Runtime
+0,Sonic the Hedgehog 2,"Mar 30, 2022",https://www.themoviedb.org/movie/675353,PG,"Action,Science Fiction,Comedy,Family,Adventure",2h 2m
+1,The Lost City,"Mar 24, 2022",https://www.themoviedb.org/movie/752623,PG-13,"Action,Adventure,Comedy,Romance",1h 52m
+2,Uncharted,"Feb 10, 2022",https://www.themoviedb.org/movie/335787,PG-13,"Action,Adventure",1h 56m
+3,The Northman,"Apr 07, 2022",https://www.themoviedb.org/movie/639933,R,"Action,Adventure,Drama,Fantasy,Thriller",2h 17m
+4,The Batman,"Mar 01, 2022",https://www.themoviedb.org/movie/414906,UA,"Crime,Mystery,Thriller",2h 56m
+5,Doctor Strange in the Multiverse of Madness,"May 04, 2022",https://www.themoviedb.org/movie/453395,UA,"Fantasy,Action,Adventure",2h 6m
+6,Spider-Man: No Way Home,"Dec 15, 2021",https://www.themoviedb.org/movie/634649,PG-13,"Action,Adventure,Science Fiction",2h 28m
+7,The Bad Guys,"Mar 17, 2022",https://www.themoviedb.org/movie/629542,PG,"Animation,Comedy,Action,Family,Crime",1h 40m
+8,The Contractor,"Mar 10, 2022",https://www.themoviedb.org/movie/628900,R,"Action,Thriller",1h 43m
+9,The Exorcism of God,"Feb 10, 2022",https://www.themoviedb.org/movie/836225,R,Horror,1h 38m
+10,Morbius,"Mar 30, 2022",https://www.themoviedb.org/movie/526896,PG-13,"Action,Science Fiction,Fantasy",1h 44m
+11,Turning Red,"Mar 10, 2022",https://www.themoviedb.org/movie/508947,PG,"Animation,Family,Comedy,Fantasy",1h 40m
+12,Moonfall,"Feb 03, 2022",https://www.themoviedb.org/movie/406759,PG-13,"Science Fiction,Adventure,Action",2h 10m
+13,The Takedown,"May 06, 2022",https://www.themoviedb.org/movie/785985,16,"Comedy,Action",1h 59m
+14,Ambulance,"Mar 16, 2022",https://www.themoviedb.org/movie/763285,R,"Action,Thriller,Crime",2h 16m
+15,Doctor Strange,"Oct 25, 2016",https://www.themoviedb.org/movie/284052,UA,"Action,Adventure,Fantasy,Science Fiction",1h 55m
+16,Virus:32,"Apr 21, 2022",https://www.themoviedb.org/movie/893370,None,Horror,1h 30m
+17,Fortress: Sniper's Eye,"Apr 29, 2022",https://www.themoviedb.org/movie/883502,R,"Crime,Action",1h 27m
+18,365 Days: This Day,"Apr 27, 2022",https://www.themoviedb.org/movie/829557,16,"Romance,Drama",1h 51m
+19,The Outfit,"Feb 25, 2022",https://www.themoviedb.org/movie/799876,R,"Crime,Drama,Thriller",1h 45m
+20,Encanto,"Nov 24, 2021",https://www.themoviedb.org/movie/568124,PG,"Animation,Comedy,Family,Fantasy",1h 42m
+21,Silverton Siege,"Apr 27, 2022",https://www.themoviedb.org/movie/951470,PG-13,"Action,Crime,Drama",1h 40m
+22,Yaksha: Ruthless Operations,"Apr 08, 2022",https://www.themoviedb.org/movie/606402,15,Action,2h 5m
+23,Fantastic Beasts: The Secrets of Dumbledore,"Apr 06, 2022",https://www.themoviedb.org/movie/338953,PG-13,"Action,Adventure,Fantasy",2h 22m
+24,Dark Blood,"Sep 05, 2021",https://www.themoviedb.org/movie/845885,R,"Crime,Drama",None
+25,All the Old Knives,"Apr 08, 2022",https://www.themoviedb.org/movie/294793,R,"Thriller,Action",1h 42m
+26,Hotel Transylvania: Transformania,"Feb 25, 2022",https://www.themoviedb.org/movie/585083,PG,"Animation,Family,Fantasy,Comedy,Adventure",1h 27m
+27,The Grandmother,"Jan 28, 2022",https://www.themoviedb.org/movie/661791,16,Horror,1h 40m
+28,The Adam Project,"Mar 11, 2022",https://www.themoviedb.org/movie/696806,PG-13,"Action,Adventure,Comedy,Science Fiction",1h 46m
+29,My Hero Academia: World Heroes' Mission,"Aug 06, 2021",https://www.themoviedb.org/movie/768744,PG-13,"Animation,Action,Fantasy,Adventure",1h 45m
+30,The Ice Age Adventures of Buck Wild,"Jan 28, 2022",https://www.themoviedb.org/movie/774825,PG,"Animation,Comedy,Adventure,Family",1h 22m
+31,What a Father!,"Feb 09, 2022",https://www.themoviedb.org/movie/937337,None,"Comedy,Family,Romance",1h 39m
+32,Venom: Let There Be Carnage,"Sep 30, 2021",https://www.themoviedb.org/movie/580489,PG-13,"Science Fiction,Action,Adventure",1h 37m
+33,War of the Worlds: Annihilation,"Dec 22, 2021",https://www.themoviedb.org/movie/919689,PG-13,"Science Fiction,Action",1h 53m
+34,Marmaduke,"Apr 28, 2022",https://www.themoviedb.org/movie/678287,PG,"Animation,Family,Comedy",1h 28m
+35,Demon Slayer -Kimetsu no Yaiba- The Movie: Mugen Train,"Oct 16, 2020",https://www.themoviedb.org/movie/635302,UA,"Animation,Action,Adventure,Fantasy",1h 57m
+36,Blacklight,"Feb 10, 2022",https://www.themoviedb.org/movie/823625,PG-13,"Action,Thriller",1h 44m
+37,Sing 2,"Dec 01, 2021",https://www.themoviedb.org/movie/438695,PG,"Animation,Comedy,Family,Music",1h 50m
+38,Eternals,"Nov 03, 2021",https://www.themoviedb.org/movie/524434,PG-13,"Science Fiction,Action,Adventure",2h 36m
+39,Shang-Chi and the Legend of the Ten Rings,"Sep 01, 2021",https://www.themoviedb.org/movie/566525,PG-13,"Action,Adventure,Fantasy,Science Fiction",2h 12m
+40,The Jack in the Box: Awakening,"Feb 24, 2022",https://www.themoviedb.org/movie/801071,15,Horror,1h 29m
+41,Pil's Adventures,"Aug 11, 2021",https://www.themoviedb.org/movie/676705,U,"Adventure,Animation,Comedy,Family,Fantasy",1h 29m
+42,No Exit,"Feb 25, 2022",https://www.themoviedb.org/movie/833425,R,"Horror,Thriller",1h 36m
+43,Bull Shark,"Feb 05, 2022",https://www.themoviedb.org/movie/938596,NR,Horror,1h 20m
+44,Avatar,"Dec 10, 2009",https://www.themoviedb.org/movie/19995,PG-13,"Action,Adventure,Fantasy,Science Fiction",2h 42m
+45,Along for the Ride,"May 06, 2022",https://www.themoviedb.org/movie/778106,12,"Romance,Drama",1h 46m
+46,Black Crab,"Mar 18, 2022",https://www.themoviedb.org/movie/760868,R,"Action,Thriller",1h 49m
+47,The King's Man,"Dec 22, 2021",https://www.themoviedb.org/movie/476669,R,"Action,Adventure,Thriller,War,Mystery",2h 11m
+48,Resident Evil: Welcome to Raccoon City,"Nov 24, 2021",https://www.themoviedb.org/movie/460458,A,"Horror,Action,Science Fiction",1h 47m
+49,The Requin,"Jan 28, 2022",https://www.themoviedb.org/movie/803114,R,Thriller,1h 29m
+50,The Seven Deadly Sins: Cursed by Light,"Jul 02, 2021",https://www.themoviedb.org/movie/843241,PG-13,"Animation,Fantasy",1h 19m
+51,Kimi,"Feb 10, 2022",https://www.themoviedb.org/movie/800510,R,Thriller,1h 29m
+52,40 Years Young,"Mar 10, 2022",https://www.themoviedb.org/movie/949270,15,Comedy,1h 21m
+53,The Boss Baby: Family Business,"Jul 01, 2021",https://www.themoviedb.org/movie/459151,PG,"Animation,Comedy,Adventure,Family",1h 47m
+54,Ghostbusters: Afterlife,"Nov 11, 2021",https://www.themoviedb.org/movie/425909,PG-13,"Fantasy,Comedy,Adventure",2h 4m
+55,"¿Nos casamos? Sí, mi amor","Feb 03, 2022",https://www.themoviedb.org/movie/935819,None,"Comedy,Romance",None
+56,Scream,"Jan 12, 2022",https://www.themoviedb.org/movie/646385,R,"Horror,Mystery,Thriller",1h 54m
+57,Tom and Jerry: Cowboy Up!,"Jan 24, 2022",https://www.themoviedb.org/movie/892153,NR,"Animation,Comedy,Family,Western",1h 15m
+58,Last Man Down,"Oct 19, 2021",https://www.themoviedb.org/movie/860623,R,"Action,Thriller",1h 27m
+59,Pirates of the Caribbean: On Stranger Tides,"May 14, 2011",https://www.themoviedb.org/movie/1865,UA,"Adventure,Action,Fantasy",2h 17m
+60,Crush,"Apr 29, 2022",https://www.themoviedb.org/movie/860159,16,"Comedy,Romance",1h 32m
+61,Redeeming Love,"Jan 21, 2022",https://www.themoviedb.org/movie/698508,PG-13,"Drama,History,Romance",2h 14m
+62,Texas Chainsaw Massacre,"Feb 18, 2022",https://www.themoviedb.org/movie/632727,R,"Horror,Thriller",1h 23m
+63,The In Between,"Feb 11, 2022",https://www.themoviedb.org/movie/818750,PG-13,"Romance,Science Fiction,Drama",1h 56m
+64,Pirates of the Caribbean: Dead Man's Chest,"Jul 06, 2006",https://www.themoviedb.org/movie/58,PG-13,"Adventure,Fantasy,Action",2h 31m
+65,Sonic the Hedgehog,"Feb 12, 2020",https://www.themoviedb.org/movie/454626,PG,"Action,Science Fiction,Comedy,Family",1h 39m
+66,The Matrix Resurrections,"Dec 16, 2021",https://www.themoviedb.org/movie/624860,R,"Science Fiction,Action,Adventure",2h 28m
+67,Jackass Forever,"Feb 01, 2022",https://www.themoviedb.org/movie/656663,R,"Comedy,Action,Documentary",1h 36m
+68,Clifford the Big Red Dog,"Nov 10, 2021",https://www.themoviedb.org/movie/585245,PG,"Family,Adventure,Comedy,Fantasy",1h 37m
+69,Avengers: Infinity War,"Apr 25, 2018",https://www.themoviedb.org/movie/299536,UA,"Adventure,Action,Science Fiction",2h 29m
+70,Pirates of the Caribbean: At World's End,"May 19, 2007",https://www.themoviedb.org/movie/285,PG-13,"Adventure,Fantasy,Action",2h 49m
+71,Red Notice,"Nov 04, 2021",https://www.themoviedb.org/movie/512195,PG-13,"Action,Comedy,Crime,Thriller",1h 58m
+72,Gold,"Jan 13, 2022",https://www.themoviedb.org/movie/760926,R,"Thriller,Action",1h 37m
+73,Pirates of the Caribbean: The Curse of the Black Pearl,"Jul 09, 2003",https://www.themoviedb.org/movie/22,UA,"Adventure,Fantasy,Action",2h 23m
+74,The House,"Jan 14, 2022",https://www.themoviedb.org/movie/926899,R,"Animation,Drama,Comedy,Horror",1h 37m
+75,Restless,"Feb 25, 2022",https://www.themoviedb.org/movie/928381,R,"Action,Thriller,Crime",1h 35m
+76,Free Guy,"Aug 11, 2021",https://www.themoviedb.org/movie/550988,UA,"Comedy,Action,Adventure,Science Fiction",1h 55m
+77,Honeymoon With My Mother,"Apr 29, 2022",https://www.themoviedb.org/movie/955971,R21,Comedy,1h 50m
+78,PAW Patrol: The Movie,"Aug 09, 2021",https://www.themoviedb.org/movie/675445,G,"Animation,Family,Adventure,Comedy",1h 26m
+79,Mortal Kombat,"Apr 07, 2021",https://www.themoviedb.org/movie/460465,A,"Action,Fantasy,Adventure",1h 50m
+80,The Simpsons in Plusaversary,"Nov 12, 2021",https://www.themoviedb.org/movie/877183,G,"Animation,Comedy,Fantasy",4m
+81,The Commando,"Jan 07, 2022",https://www.themoviedb.org/movie/753232,R,"Action,Crime,Thriller",1h 33m
+82,Fistful of Vengeance,"Feb 17, 2022",https://www.themoviedb.org/movie/890656,R,"Action,Crime,Fantasy",1h 34m
+83,Cruella,"May 26, 2021",https://www.themoviedb.org/movie/337404,PG-13,"Comedy,Crime,Adventure",2h 14m
+84,What Men Want,"Feb 08, 2019",https://www.themoviedb.org/movie/487297,R,"Comedy,Romance",1h 57m
+85,Top Gun: Maverick,"May 19, 2022",https://www.themoviedb.org/movie/361743,UA,"Action,Drama",2h 11m
+86,Fate/Grand Order Final Singularity – Grand Temple of Time: Solomon,"Jul 30, 2021",https://www.themoviedb.org/movie/829920,None,"Animation,Action,Adventure,Fantasy",1h 34m
+87,Operation Mincemeat,"Apr 01, 2022",https://www.themoviedb.org/movie/661231,PG-13,"War,History,Drama",2h 8m
+88,Luca,"Jun 17, 2021",https://www.themoviedb.org/movie/508943,PG,"Animation,Comedy,Family,Fantasy",1h 35m
+89,Looop Lapeta,"Feb 04, 2022",https://www.themoviedb.org/movie/783461,R,"Action,Comedy,Crime",2h 11m
+90,Dr. Strange,"Sep 06, 1978",https://www.themoviedb.org/movie/50468,None,"TV Movie,Action,Adventure,Fantasy,Science Fiction",1h 33m
+91,Pirates of the Caribbean: Dead Men Tell No Tales,"May 23, 2017",https://www.themoviedb.org/movie/166426,PG-13,"Adventure,Action,Fantasy",2h 9m
+92,After We Fell,"Sep 01, 2021",https://www.themoviedb.org/movie/744275,R,"Romance,Drama",1h 39m
+93,Desperate Riders,"Feb 25, 2022",https://www.themoviedb.org/movie/928999,PG-13,"Western,Action",1h 30m
+94,The Hunting,"Jan 21, 2022",https://www.themoviedb.org/movie/870671,16,Horror,1h 31m
+95,Space Jam: A New Legacy,"Jul 08, 2021",https://www.themoviedb.org/movie/379686,PG,"Family,Animation,Comedy,Science Fiction",1h 55m
+96,Through My Window,"Feb 04, 2022",https://www.themoviedb.org/movie/818647,R,"Romance,Drama",1h 52m
+97,The Suicide Squad,"Jul 28, 2021",https://www.themoviedb.org/movie/436969,R,"Action,Adventure,Fantasy",2h 12m
+98,Nightmare Alley,"Dec 02, 2021",https://www.themoviedb.org/movie/597208,R,"Crime,Drama,Thriller",2h 30m
+99,Zack Snyder's Justice League,"Mar 18, 2021",https://www.themoviedb.org/movie/791373,UA,"Action,Adventure,Fantasy,Science Fiction",4h 2m
+100,F9,"May 19, 2021",https://www.themoviedb.org/movie/385128,UA,"Action,Crime,Thriller,Adventure",2h 23m
+101,Ron's Gone Wrong,"Oct 15, 2021",https://www.themoviedb.org/movie/482321,PG,"Animation,Science Fiction,Family,Comedy",1h 47m
+102,American Siege,"Jan 07, 2022",https://www.themoviedb.org/movie/766907,R,"Action,Thriller,Crime,Drama",1h 30m
+103,The Weekend Away,"Mar 03, 2022",https://www.themoviedb.org/movie/840882,NC16,"Thriller,Mystery",1h 30m
+104,Sex Appeal,"Jan 14, 2022",https://www.themoviedb.org/movie/803104,14,"Comedy,Romance",1h 30m
+105,Queen of Spades,"Jun 11, 2021",https://www.themoviedb.org/movie/829358,NR,Horror,1h 31m
+106,Black Widow,"Jul 07, 2021",https://www.themoviedb.org/movie/497698,PG-13,"Action,Adventure,Science Fiction",2h 14m
+107,Avengers: Endgame,"Apr 24, 2019",https://www.themoviedb.org/movie/299534,UA,"Adventure,Science Fiction,Action",3h 1m
+108,Chernobyl: Abyss,"Apr 15, 2021",https://www.themoviedb.org/movie/589761,12+,"Drama,History,Adventure",2h 16m
+109,The Avengers,"Apr 25, 2012",https://www.themoviedb.org/movie/24428,PG-13,"Science Fiction,Action,Adventure",2h 23m
+110,The 355,"Jan 05, 2022",https://www.themoviedb.org/movie/522016,PG-13,"Action,Thriller",2h 2m
+111,The Unholy,"Mar 31, 2021",https://www.themoviedb.org/movie/632357,PG-13,Horror,1h 39m
+112,Jujutsu Kaisen 0,"Dec 24, 2021",https://www.themoviedb.org/movie/810693,PG-13,"Animation,Action,Adventure,Mystery",1h 45m
+113,The Last Warrior: Root of Evil,"Jan 01, 2021",https://www.themoviedb.org/movie/589754,PG,"Fantasy,Adventure,Comedy",2h
+114,Firestarter,"May 12, 2022",https://www.themoviedb.org/movie/532710,R,"Thriller,Fantasy,Horror",1h 34m
+115,Godzilla vs. Kong,"Mar 24, 2021",https://www.themoviedb.org/movie/399566,UA,"Action,Fantasy,Science Fiction",1h 53m
+116,Titanic,"Nov 18, 1997",https://www.themoviedb.org/movie/597,PG-13,"Drama,Romance",3h 14m
+117,Jungle Cruise,"Jul 28, 2021",https://www.themoviedb.org/movie/451048,UA,"Action,Adventure,Fantasy",2h 7m
+118,Two,"Jul 23, 2021",https://www.themoviedb.org/movie/811072,M18,"Thriller,Horror",1h 11m
+119,Paranormal Activity: Next of Kin,"Oct 29, 2021",https://www.themoviedb.org/movie/609972,R,"Horror,Mystery,Thriller",1h 38m
+120,Dune,"Sep 15, 2021",https://www.themoviedb.org/movie/438631,UA,"Science Fiction,Adventure",2h 35m
+121,Dragon Ball Super: Super Hero,"Jun 09, 2022",https://www.themoviedb.org/movie/610150,None,"Animation,Science Fiction,Action",None
+122,Run Gun,"Jan 11, 2022",https://www.themoviedb.org/movie/910596,R,"Action,Thriller",1h 36m
+123,Diary of a Wimpy Kid,"Dec 03, 2021",https://www.themoviedb.org/movie/774741,PG,"Animation,Comedy,Family",58m
+124,Deep Water,"Mar 18, 2022",https://www.themoviedb.org/movie/619979,R,"Drama,Mystery,Thriller",1h 56m
+125,The Conjuring: The Devil Made Me Do It,"May 25, 2021",https://www.themoviedb.org/movie/423108,R,"Horror,Mystery,Thriller",1h 51m
+126,Fantastic Beasts and Where to Find Them,"Nov 16, 2016",https://www.themoviedb.org/movie/259316,UA,"Action,Adventure,Fantasy",2h 12m
+127,Echoes,"Jan 27, 2022",https://www.themoviedb.org/movie/842052,14,"Thriller,Horror",1h 24m
+128,No Time to Die,"Sep 29, 2021",https://www.themoviedb.org/movie/370172,PG-13,"Adventure,Action,Thriller",2h 43m
+129,Our Father,"May 11, 2022",https://www.themoviedb.org/movie/962697,16,"Documentary,Crime",1h 37m
+130,UMMA,"Mar 18, 2022",https://www.themoviedb.org/movie/751237,PG-13,"Horror,Mystery",1h 23m
+131,Brazen,"Jan 13, 2022",https://www.themoviedb.org/movie/916740,R21,"Thriller,Mystery,Drama",1h 34m
+132,Antlers,"Oct 28, 2021",https://www.themoviedb.org/movie/516329,R,"Drama,Horror,Mystery",1h 39m
+133,Dragon Ball Z: Resurrection 'F',"Apr 18, 2015",https://www.themoviedb.org/movie/303857,NR,"Action,Animation,Science Fiction",1h 33m
+134,Deathstroke: Knights & Dragons - The Movie,"Aug 04, 2020",https://www.themoviedb.org/movie/703771,R,"Animation,Action,Adventure,Science Fiction",1h 27m
+135,Dark Spell,"Feb 11, 2021",https://www.themoviedb.org/movie/633802,16+,"Romance,Horror,Thriller",1h 32m
+136,Finch,"Nov 04, 2021",https://www.themoviedb.org/movie/522402,PG-13,"Science Fiction,Drama,Adventure",1h 55m
+137,Jurassic World Dominion,"Jun 01, 2022",https://www.themoviedb.org/movie/507086,PG-13,"Adventure,Action,Science Fiction,Thriller",2h 27m
+138,Mobile Suit Gundam Hathaway,"Jun 11, 2021",https://www.themoviedb.org/movie/685274,PG-13,"Animation,Action,Drama,Science Fiction",1h 36m
+139,Metal Lords,"Apr 08, 2022",https://www.themoviedb.org/movie/739993,R,"Comedy,Drama,Music",1h 37m
+140,One Shot,"Nov 05, 2021",https://www.themoviedb.org/movie/811592,NR,Action,1h 37m
+141,Curious George: Cape Ahoy,"Sep 30, 2021",https://www.themoviedb.org/movie/918832,None,"Animation,Adventure,Comedy",1h 28m
+142,Marry Me,"Feb 09, 2022",https://www.themoviedb.org/movie/615904,PG-13,"Romance,Comedy,Music",1h 52m
+143,The Maze Runner,"Sep 10, 2014",https://www.themoviedb.org/movie/198663,PG-13,"Action,Mystery,Science Fiction,Thriller",1h 53m
+144,Harry Potter and the Philosopher's Stone,"Nov 16, 2001",https://www.themoviedb.org/movie/671,PG,"Adventure,Fantasy",2h 32m
+145,Pursuit,"Feb 18, 2022",https://www.themoviedb.org/movie/871799,R,"Action,Crime,Thriller",1h 32m
+146,Raya and the Last Dragon,"Mar 03, 2021",https://www.themoviedb.org/movie/527774,PG,"Animation,Family,Fantasy,Action,Adventure",1h 47m
+147,The Last: Naruto the Movie,"Dec 06, 2014",https://www.themoviedb.org/movie/317442,PG-13,"Action,Romance,Animation",1h 54m
+148,Doctor Strange,"Aug 14, 2007",https://www.themoviedb.org/movie/14830,PG-13,"Action,Animation,Fantasy,Science Fiction",1h 16m
+149,Coraline,"Feb 05, 2009",https://www.themoviedb.org/movie/14836,PG,"Animation,Family,Fantasy",1h 40m
+150,It Follows,"Feb 04, 2015",https://www.themoviedb.org/movie/270303,R,"Horror,Mystery",1h 41m
+151,Ripper Untold,"Jun 28, 2021",https://www.themoviedb.org/movie/820511,15,Horror,1h 25m
+152,Death on the Nile,"Feb 09, 2022",https://www.themoviedb.org/movie/505026,PG-13,"Crime,Drama,Mystery,Thriller",2h 7m
+153,All Hail,"Mar 30, 2022",https://www.themoviedb.org/movie/682344,PG13,"Comedy,Drama",1h 58m
+154,Senior Year,"May 11, 2022",https://www.themoviedb.org/movie/800937,R,"Comedy,Drama",1h 52m
+155,Dancing on Glass,"Apr 08, 2022",https://www.themoviedb.org/movie/800407,M18,Drama,2h 17m
+156,Ciao Alberto,"Nov 12, 2021",https://www.themoviedb.org/movie/876716,PG,"Animation,Comedy,Family,Fantasy",7m
+157,The Croods: A New Age,"Nov 25, 2020",https://www.themoviedb.org/movie/529203,PG,"Animation,Family,Adventure,Fantasy,Comedy",1h 35m
+158,Mother/Android,"Dec 17, 2021",https://www.themoviedb.org/movie/739413,R,"Science Fiction,Thriller",1h 51m
+159,The Addams Family 2,"Oct 01, 2021",https://www.themoviedb.org/movie/639721,PG,"Animation,Adventure,Comedy,Family",1h 33m
+160,The Help,"Aug 09, 2011",https://www.themoviedb.org/movie/50014,PG-13,Drama,2h 26m
+161,Wrath of Man,"Apr 22, 2021",https://www.themoviedb.org/movie/637649,R,"Action,Crime,Thriller",1h 59m
+162,The Amazing Spider-Man,"Jun 23, 2012",https://www.themoviedb.org/movie/1930,PG-13,"Action,Adventure,Fantasy",2h 16m
+163,"Miraculous World: New York, United HeroeZ","Nov 21, 2020",https://www.themoviedb.org/movie/755812,U,"Animation,Family,Comedy,Adventure,TV Movie",55m
+164,Fantastic Beasts: The Crimes of Grindelwald,"Nov 14, 2018",https://www.themoviedb.org/movie/338952,UA,"Action,Adventure,Fantasy",2h 14m
+165,My Hero Academia: Heroes Rising,"Dec 20, 2019",https://www.themoviedb.org/movie/592350,PG-13,"Animation,Action,Fantasy,Adventure",1h 44m
+166,The Tomorrow War,"Jul 02, 2021",https://www.themoviedb.org/movie/588228,UA,"Action,Science Fiction,Adventure",2h 18m
+167,The Hunt,"Mar 11, 2020",https://www.themoviedb.org/movie/514847,R,"Action,Thriller,Horror",1h 30m
+168,Avengers: Age of Ultron,"Apr 22, 2015",https://www.themoviedb.org/movie/99861,U,"Action,Adventure,Science Fiction",2h 21m
+169,Miraculous World: Shanghai – The Legend of Ladydragon,"May 15, 2021",https://www.themoviedb.org/movie/726684,U,"Animation,Comedy,Family,Adventure",52m
+170,Exploits of a Young Don Juan,"Nov 04, 1986",https://www.themoviedb.org/movie/81774,U,"Comedy,Drama",1h 35m
+171,Infinite,"Sep 09, 2021",https://www.themoviedb.org/movie/581726,PG-13,"Science Fiction,Action,Thriller",1h 46m
+172,Toy Story,"Oct 30, 1995",https://www.themoviedb.org/movie/862,G,"Animation,Adventure,Family,Comedy",1h 21m
+173,Nobody,"Mar 18, 2021",https://www.themoviedb.org/movie/615457,UA,"Action,Crime,Thriller",1h 32m
+174,Old,"Jul 21, 2021",https://www.themoviedb.org/movie/631843,PG-13,"Thriller,Mystery,Horror",1h 48m
+175,Coco,"Oct 27, 2017",https://www.themoviedb.org/movie/354912,U,"Family,Animation,Fantasy,Music,Comedy,Adventure",1h 45m
+176,The Sadness,"Jan 22, 2021",https://www.themoviedb.org/movie/776797,18,"Horror,Action",1h 39m
+177,Meander,"May 26, 2021",https://www.themoviedb.org/movie/523936,R,"Horror,Science Fiction,Drama,Thriller",1h 31m
+178,Harry Potter and the Chamber of Secrets,"Nov 13, 2002",https://www.themoviedb.org/movie/672,PG,"Adventure,Fantasy",2h 41m
+179,Undisputed III: Redemption,"May 22, 2010",https://www.themoviedb.org/movie/38234,R,"Action,Thriller",1h 36m
+180,Naruto Shippuden the Movie,"Aug 04, 2007",https://www.themoviedb.org/movie/20982,PG-13,"Animation,Action,Fantasy",1h 34m
+181,Boruto: Naruto the Movie,"Aug 07, 2015",https://www.themoviedb.org/movie/347201,PG-13,"Animation,Action,Comedy",1h 35m
+182,Riverdance: The Animated Adventure,"May 28, 2021",https://www.themoviedb.org/movie/756403,U,"Animation,Fantasy,Music,Adventure,Comedy,Family",1h 26m
+183,Hacksaw Ridge,"Oct 07, 2016",https://www.themoviedb.org/movie/324786,R,"Drama,History,War",2h 19m
+184,Don't Breathe 2,"Aug 12, 2021",https://www.themoviedb.org/movie/482373,UA,"Thriller,Horror",1h 38m
+185,Back to the Outback,"Dec 03, 2021",https://www.themoviedb.org/movie/770254,PG,"Animation,Family,Adventure,Comedy",1h 32m
+186,Deadpool,"Feb 09, 2016",https://www.themoviedb.org/movie/293660,R,"Action,Adventure,Comedy",1h 48m
+187,After Ever Happy,"Aug 25, 2022",https://www.themoviedb.org/movie/744276,16,Romance,1h 59m
+188,The Medium,"Jul 14, 2021",https://www.themoviedb.org/movie/745881,18,"Horror,Thriller",2h 11m
+189,Harry Potter and the Prisoner of Azkaban,"May 31, 2004",https://www.themoviedb.org/movie/673,PG,"Adventure,Fantasy",2h 21m
+190,Tarumama,"Jul 29, 2021",https://www.themoviedb.org/movie/775943,14,"Horror,Drama",1h 30m
+191,Harry Potter and the Goblet of Fire,"Nov 16, 2005",https://www.themoviedb.org/movie/674,PG-13,"Adventure,Fantasy,Family",2h 37m
+192,"Monsters, Inc.","Nov 01, 2001",https://www.themoviedb.org/movie/585,G,"Animation,Comedy,Family",1h 32m
+193,The Privilege,"Feb 09, 2022",https://www.themoviedb.org/movie/926980,R,Horror,1h 47m
+194,Cheaper by the Dozen,"Mar 18, 2022",https://www.themoviedb.org/movie/691683,PG,"Family,Comedy",1h 47m
+195,Harry Potter and the Deathly Hallows: Part 2,"Jul 07, 2011",https://www.themoviedb.org/movie/12445,PG-13,"Fantasy,Adventure",2h 10m
+196,Charlie and the Chocolate Factory,"Jul 13, 2005",https://www.themoviedb.org/movie/118,PG,"Adventure,Comedy,Family,Fantasy",1h 55m
+197,The Last Duel,"Oct 13, 2021",https://www.themoviedb.org/movie/617653,A,"Action,Drama,History",2h 33m
+198,After We Collided,"Sep 02, 2020",https://www.themoviedb.org/movie/613504,R,"Romance,Drama",1h 45m
+199,Crazy Fist,"May 06, 2021",https://www.themoviedb.org/movie/859041,None,Action,1h 37m
+200,¿Y cómo es él?,"Apr 07, 2022",https://www.themoviedb.org/movie/671318,PG-13,Comedy,1h 35m
+201,The Wolf of Wall Street,"Dec 25, 2013",https://www.themoviedb.org/movie/106646,R,"Crime,Drama,Comedy",3h
+202,Snake Eyes: G.I. Joe Origins,"Jul 22, 2021",https://www.themoviedb.org/movie/568620,PG-13,"Action,Adventure",2h 1m
+203,The Bubble,"Mar 25, 2022",https://www.themoviedb.org/movie/765119,R,Comedy,2h 6m
+204,Witch Hunt,"Oct 01, 2021",https://www.themoviedb.org/movie/670429,R,"Fantasy,Horror,Thriller,Drama",1h 32m
+205,Harry Potter and the Half-Blood Prince,"Jul 07, 2009",https://www.themoviedb.org/movie/767,PG,"Adventure,Fantasy",2h 33m
+206,Dangerous,"Nov 05, 2021",https://www.themoviedb.org/movie/763788,R,"Action,Thriller",1h 39m
+207,Caged Birds,"Jan 21, 2022",https://www.themoviedb.org/movie/747440,16,"Drama,Crime",1h 58m
+208,The Whole Truth,"Dec 02, 2021",https://www.themoviedb.org/movie/895001,R,Horror,2h 5m
+209,Spider-Man: Homecoming,"Jul 05, 2017",https://www.themoviedb.org/movie/315635,UA,"Action,Adventure,Science Fiction,Drama",2h 13m
+210,Son,"Mar 18, 2021",https://www.themoviedb.org/movie/754934,NR,"Horror,Thriller",1h 38m
+211,Dragon Fury,"Jun 15, 2021",https://www.themoviedb.org/movie/839436,None,"Horror,Fantasy,Mystery",1h 28m
+212,Captain America: Civil War,"Apr 27, 2016",https://www.themoviedb.org/movie/271110,UA,"Adventure,Action,Science Fiction",2h 27m
+213,Iron Man 2,"Apr 28, 2010",https://www.themoviedb.org/movie/10138,PG-13,"Adventure,Action,Science Fiction",2h 4m
+214,Halloween Kills,"Oct 14, 2021",https://www.themoviedb.org/movie/610253,R,"Horror,Thriller",1h 45m
+215,Tom & Jerry,"Feb 10, 2021",https://www.themoviedb.org/movie/587807,PG,"Comedy,Family,Animation",1h 41m
+216,Knowing,"Mar 19, 2009",https://www.themoviedb.org/movie/13811,PG-13,"Action,Mystery,Science Fiction,Thriller",2h 1m
+217,Trolls Holiday in Harmony,"Nov 26, 2021",https://www.themoviedb.org/movie/896221,PG,"Animation,Fantasy,Family",30m
+218,Harry Potter and the Deathly Hallows: Part 1,"Oct 17, 2010",https://www.themoviedb.org/movie/12444,PG-13,"Adventure,Fantasy",2h 26m
+219,Wonder Woman 1984,"Dec 16, 2020",https://www.themoviedb.org/movie/464052,UA,"Action,Adventure,Fantasy",2h 31m
+220,Harry Potter and the Order of the Phoenix,"Jun 28, 2007",https://www.themoviedb.org/movie/675,PG-13,"Adventure,Fantasy,Mystery",2h 18m
+221,The SpongeBob Movie: Sponge on the Run,"Aug 14, 2020",https://www.themoviedb.org/movie/400160,PG,"Family,Animation,Fantasy,Adventure,Comedy",1h 35m
+222,Your Name.,"Aug 26, 2016",https://www.themoviedb.org/movie/372058,PG,"Romance,Animation,Drama",1h 46m
+223,The Forever Purge,"Jun 30, 2021",https://www.themoviedb.org/movie/602223,R,"Horror,Action,Thriller",1h 43m
+224,Love Like the Falling Petals,"Mar 24, 2022",https://www.themoviedb.org/movie/890322,NC16,"Romance,Drama",2h 8m
+225,Everything Everywhere All at Once,"Mar 24, 2022",https://www.themoviedb.org/movie/545611,R,"Action,Science Fiction,Comedy,Adventure",2h 19m
+226,Dynasty Warriors,"Apr 27, 2021",https://www.themoviedb.org/movie/525660,PG-13,"Action,Adventure,Fantasy",1h 58m
+227,It Chapter Two,"Sep 04, 2019",https://www.themoviedb.org/movie/474350,R,"Horror,Fantasy",2h 49m
+228,The Deep House,"Jun 30, 2021",https://www.themoviedb.org/movie/672582,NR,Horror,1h 25m
+229,The Mystery of Marilyn Monroe: The Unheard Tapes,"Apr 27, 2022",https://www.themoviedb.org/movie/953300,R,Documentary,1h 41m
+230,S.O.S. Mamis: La película,"Mar 18, 2022",https://www.themoviedb.org/movie/949218,None,Comedy,1h 45m
+231,Ted 2,"Jun 25, 2015",https://www.themoviedb.org/movie/214756,R,Comedy,1h 55m
+232,The Lion King,"Jun 23, 1994",https://www.themoviedb.org/movie/8587,G,"Family,Animation,Drama",1h 29m
+233,The Wonderful Winter of Mickey Mouse,"Feb 18, 2022",https://www.themoviedb.org/movie/939336,G,"Animation,Comedy",24m
+234,Sneakerella,"May 11, 2022",https://www.themoviedb.org/movie/756187,G,"Music,Comedy,Family",1h 50m
+235,Dragon Ball Z: Battle of Gods,"Mar 30, 2013",https://www.themoviedb.org/movie/126963,PG-13,"Animation,Action,Science Fiction",1h 25m
+236,A Quiet Place Part II,"May 21, 2021",https://www.themoviedb.org/movie/520763,PG-13,"Science Fiction,Thriller,Horror",1h 37m
+237,Apex,"Nov 12, 2021",https://www.themoviedb.org/movie/763164,PG-13,"Action,Thriller,Science Fiction",1h 48m
+238,Shrek,"May 18, 2001",https://www.themoviedb.org/movie/808,PG,"Animation,Comedy,Fantasy,Adventure,Family",1h 30m
+239,The Novice,"Dec 17, 2021",https://www.themoviedb.org/movie/821427,R,"Drama,Thriller",1h 34m
+240,Monster Hunter,"Dec 03, 2020",https://www.themoviedb.org/movie/458576,PG-13,"Action,Fantasy,Adventure",1h 44m
+241,Pretty Guardian Sailor Moon Eternal The Movie Part 2,"Feb 11, 2021",https://www.themoviedb.org/movie/784500,PG-13,"Animation,Action,Adventure,Comedy,Drama,Fantasy,Romance",1h 20m
+242,Save The Trees,"Dec 01, 2021",https://www.themoviedb.org/movie/886896,None,Animation,1h 20m
+243,Big Hero 6,"Oct 24, 2014",https://www.themoviedb.org/movie/177572,PG,"Adventure,Family,Animation,Action,Comedy",1h 42m
+244,Catwoman: Hunted,"Feb 07, 2022",https://www.themoviedb.org/movie/862491,PG-13,"Animation,Action,Crime",1h 18m
+245,After,"Apr 11, 2019",https://www.themoviedb.org/movie/537915,PG-13,"Romance,Drama",1h 46m
+246,The Pirates: The Last Royal Treasure,"Jan 26, 2022",https://www.themoviedb.org/movie/591120,12,"Action,Adventure,Comedy,History",2h 6m
+247,Spider-Man: Far From Home,"Jun 28, 2019",https://www.themoviedb.org/movie/429617,UA,"Action,Adventure,Science Fiction",2h 9m
+248,An Egg Rescue,"Aug 12, 2021",https://www.themoviedb.org/movie/573164,PG,"Animation,Comedy",1h 28m
+249,Black Water: Abyss,"Jul 09, 2020",https://www.themoviedb.org/movie/522444,NR,"Horror,Thriller,Adventure,Mystery",1h 38m
+250,Army of Thieves,"Oct 27, 2021",https://www.themoviedb.org/movie/796499,R,"Crime,Comedy",2h 7m
+251,The Twilight Saga: Eclipse,"Jun 23, 2010",https://www.themoviedb.org/movie/24021,PG-13,"Adventure,Fantasy,Drama,Romance",2h 4m
+252,Venom,"Sep 28, 2018",https://www.themoviedb.org/movie/335983,PG-13,"Science Fiction,Action",1h 52m
+253,Seal Team,"Oct 28, 2021",https://www.themoviedb.org/movie/823610,PG,"Animation,Family,Comedy",1h 38m
+254,Battle: Freestyle,"Apr 01, 2022",https://www.themoviedb.org/movie/785521,NC16,"Romance,Drama",1h 28m
+255,"Yes, No, or Maybe Half?","Dec 11, 2020",https://www.themoviedb.org/movie/719088,None,"Animation,Drama,Romance",53m
+256,Titanic II,"Aug 07, 2010",https://www.themoviedb.org/movie/44918,NR,"Action,Adventure,Thriller",1h 30m
+257,Jurassic World,"Jun 06, 2015",https://www.themoviedb.org/movie/135397,UA,"Action,Adventure,Science Fiction,Thriller",2h 4m
+258,Digimon Adventure: Last Evolution Kizuna,"Feb 21, 2020",https://www.themoviedb.org/movie/571265,G,"Animation,Action,Thriller,Adventure,Fantasy",1h 34m
+259,Boyka: Undisputed IV,"Aug 01, 2016",https://www.themoviedb.org/movie/348893,14,"Action,Drama",1h 27m
+260,West Side Story,"Dec 08, 2021",https://www.themoviedb.org/movie/511809,PG-13,"Drama,Romance,Crime",2h 37m
+261,Ava,"Jul 02, 2020",https://www.themoviedb.org/movie/539885,R,"Action,Crime,Drama,Thriller",1h 36m
+262,Demonic,"Jul 29, 2021",https://www.themoviedb.org/movie/774021,R,"Horror,Thriller",1h 44m
+263,Project X,"Mar 01, 2012",https://www.themoviedb.org/movie/57214,R,Comedy,1h 28m
+264,Ice Age,"Mar 10, 2002",https://www.themoviedb.org/movie/425,PG,"Animation,Comedy,Family,Adventure",1h 21m
+265,Ava,"Jun 21, 2017",https://www.themoviedb.org/movie/453354,18,Drama,1h 46m
+266,Percy Jackson & the Olympians: The Lightning Thief,"Feb 01, 2010",https://www.themoviedb.org/movie/32657,PG,"Adventure,Fantasy,Family",1h 58m
+267,Jurassic Hunt,"Aug 26, 2021",https://www.themoviedb.org/movie/848278,R,"Action,Science Fiction,Thriller",1h 23m
+268,Zeros and Ones,"Nov 18, 2021",https://www.themoviedb.org/movie/762433,R,"Thriller,War",1h 25m
+269,Soul,"Dec 25, 2020",https://www.themoviedb.org/movie/508442,PG,"Animation,Comedy,Fantasy,Family",1h 41m
+270,Thor,"Apr 21, 2011",https://www.themoviedb.org/movie/10195,PG-13,"Adventure,Fantasy,Action",1h 55m
+271,Without Saying Goodbye,"Mar 18, 2022",https://www.themoviedb.org/movie/944664,NC16,"Comedy,Romance",1h 36m
+272,Pokemon the Movie: Mewtwo Strikes Back - Evolution,"Jul 12, 2019",https://www.themoviedb.org/movie/571891,PG,"Animation,Adventure,Fantasy,Action,Family",1h 38m
+273,Separation,"Apr 30, 2021",https://www.themoviedb.org/movie/760195,R,"Horror,Drama",1h 47m
+274,"The Simpsons: The Good, the Bart, and the Loki","Jul 07, 2021",https://www.themoviedb.org/movie/846214,PG,"Animation,Comedy,Family",6m
+275,Better Nate Than Ever,"Mar 15, 2022",https://www.themoviedb.org/movie/826953,PG,"Music,Family,Comedy",1h 32m
+276,Halo Legends,"Feb 16, 2010",https://www.themoviedb.org/movie/573531,PG-13,"Animation,War,Drama",2h
+277,Phobias,"Feb 28, 2021",https://www.themoviedb.org/movie/793967,15,"Horror,Thriller",1h 25m
+278,Amina,"Nov 04, 2021",https://www.themoviedb.org/movie/885110,PG-13,"War,History,Drama",2h
+279,Fantastic Beasts: A Natural History,"Feb 27, 2022",https://www.themoviedb.org/movie/662244,PG,Documentary,58m
+280,AI Love You,"Feb 15, 2022",https://www.themoviedb.org/movie/928769,PG-13,"Comedy,Romance,Science Fiction",1h 35m
+281,Top Gun,"May 16, 1986",https://www.themoviedb.org/movie/744,PG,"Action,Drama,Adventure",1h 50m
+282,Spirit Untamed,"May 20, 2021",https://www.themoviedb.org/movie/637693,PG,"Animation,Adventure,Family,Western",1h 28m
+283,Monster Pets: A Hotel Transylvania Short,"Apr 02, 2021",https://www.themoviedb.org/movie/813258,G,"Animation,Comedy,Fantasy",6m
+284,Ratatouille,"Jun 28, 2007",https://www.themoviedb.org/movie/2062,G,"Animation,Comedy,Family,Fantasy",1h 51m
+285,Thor: Ragnarok,"Oct 24, 2017",https://www.themoviedb.org/movie/284053,PG-13,"Action,Adventure,Fantasy,Science Fiction",2h 11m
+286,Motherly,"Sep 01, 2021",https://www.themoviedb.org/movie/768447,16,"Thriller,Horror",1h 30m
+287,The Mortal Instruments: City of Bones,"Aug 21, 2013",https://www.themoviedb.org/movie/123553,PG-13,"Fantasy,Action,Mystery",2h 10m
+288,Shrek 2,"May 19, 2004",https://www.themoviedb.org/movie/809,PG,"Animation,Family,Comedy,Fantasy,Adventure",1h 33m
+289,Roald Dahl's The Witches,"Oct 25, 2020",https://www.themoviedb.org/movie/531219,PG,"Family,Fantasy,Adventure,Comedy,Horror",1h 46m
+290,Toy Story 2,"Oct 30, 1999",https://www.themoviedb.org/movie/863,G,"Animation,Comedy,Family",1h 32m
+291,The Hobbit: The Battle of the Five Armies,"Dec 10, 2014",https://www.themoviedb.org/movie/122917,PG-13,"Action,Adventure,Fantasy",2h 24m
+292,Narco Sub,"Jan 22, 2021",https://www.themoviedb.org/movie/706972,NC-17,"Action,Drama,Crime",1h 33m
+293,The Fate of the Furious,"Apr 12, 2017",https://www.themoviedb.org/movie/337339,PG-13,"Action,Crime,Thriller",2h 16m
+294,Fly Me Away,"May 19, 2021",https://www.themoviedb.org/movie/783558,None,"Comedy,Drama",1h 33m
+295,Fury,"Oct 15, 2014",https://www.themoviedb.org/movie/228150,A,"War,Drama,Action",2h 15m
+296,The Little Mermaid,"Nov 17, 1989",https://www.themoviedb.org/movie/10144,G,"Animation,Family,Fantasy",1h 23m
+297,Goblin Slayer: Goblin's Crown,"Feb 01, 2020",https://www.themoviedb.org/movie/631132,NC-17,"Animation,Adventure,Action,Fantasy",1h 25m
+298,The Amazing Spider-Man 2,"Apr 16, 2014",https://www.themoviedb.org/movie/102382,PG-13,"Action,Adventure,Fantasy",2h 22m
+299,Frozen II,"Nov 20, 2019",https://www.themoviedb.org/movie/330457,PG,"Family,Animation,Adventure,Comedy,Fantasy",1h 43m
+300,Dragon Ball Z: Broly – The Legendary Super Saiyan,"Mar 06, 1993",https://www.themoviedb.org/movie/34433,PG,"Animation,Science Fiction,Action",1h 10m
+301,Moonshot,"May 05, 2022",https://www.themoviedb.org/movie/767825,PG-13,"Comedy,Romance,Science Fiction",1h 44m
+302,Sinkhole,"Aug 11, 2021",https://www.themoviedb.org/movie/623135,12,"Comedy,Drama",1h 53m
+303,Fifty Shades of Grey,"Feb 11, 2015",https://www.themoviedb.org/movie/216015,R,"Drama,Romance,Thriller",2h 5m
+304,Real Steel,"Sep 28, 2011",https://www.themoviedb.org/movie/39254,PG-13,"Action,Science Fiction,Drama",2h 7m
+305,Female Doctor: Flesh Slave,"Mar 08, 1986",https://www.themoviedb.org/movie/405869,None,Crime,1h 8m
+306,Dragon Ball Z: Broly – Second Coming,"Mar 12, 1994",https://www.themoviedb.org/movie/44251,NR,"Animation,Action,Science Fiction",48m
+307,KonoSuba: God's Blessing on this Wonderful World! Legend of Crimson,"Aug 30, 2019",https://www.themoviedb.org/movie/532067,None,"Animation,Adventure,Comedy,Fantasy",1h 30m
+308,Harry Potter 20th Anniversary: Return to Hogwarts,"Jan 01, 2022",https://www.themoviedb.org/movie/899082,PG-13,Documentary,1h 43m
+309,Fortress,"Dec 17, 2021",https://www.themoviedb.org/movie/826749,R,"Crime,Action,Thriller",1h 40m
+310,Kingsman: The Secret Service,"Jan 24, 2015",https://www.themoviedb.org/movie/207703,R,"Crime,Comedy,Action,Adventure",2h 9m
+311,Gone Mom: The Disappearance of Jennifer Dulos,"Jun 05, 2021",https://www.themoviedb.org/movie/831223,14,"TV Movie,Thriller,Crime",1h 28m
+312,Shark: The Beginning,"Nov 26, 2021",https://www.themoviedb.org/movie/801604,15,Action,1h 48m
+313,Jurassic World: Fallen Kingdom,"Jun 06, 2018",https://www.themoviedb.org/movie/351286,UA,"Action,Adventure,Science Fiction",2h 9m
+314,2012,"Oct 10, 2009",https://www.themoviedb.org/movie/14161,PG-13,"Action,Adventure,Science Fiction",2h 38m
+315,The Conjuring,"Jul 18, 2013",https://www.themoviedb.org/movie/138843,A,"Horror,Thriller",1h 52m
+316,Sator,"Jul 21, 2019",https://www.themoviedb.org/movie/611651,NR,Horror,1h 25m
+317,Wish Dragon,"Jan 15, 2021",https://www.themoviedb.org/movie/550205,PG,"Animation,Family,Comedy,Fantasy",1h 39m
+318,My Hero Academia: Two Heroes,"Aug 03, 2018",https://www.themoviedb.org/movie/505262,PG-13,"Animation,Action,Adventure,Fantasy",1h 36m
+319,Cars 3,"Jun 15, 2017",https://www.themoviedb.org/movie/260514,G,"Animation,Adventure,Comedy,Family",1h 42m
+320,Erax,"Feb 17, 2022",https://www.themoviedb.org/movie/929472,PG,"Mystery,Family",14m
+321,Far From the Tree,"Nov 24, 2021",https://www.themoviedb.org/movie/831827,G,"Animation,Family",7m
+322,Deadpool 2,"May 10, 2018",https://www.themoviedb.org/movie/383498,A,"Action,Comedy,Adventure",1h 59m
+323,Kingdom: Ashin of the North,"Jul 23, 2021",https://www.themoviedb.org/movie/845222,18,"Drama,Fantasy,Thriller",1h 32m
+324,Toy Story 4,"Jun 19, 2019",https://www.themoviedb.org/movie/301528,U,"Family,Adventure,Animation,Comedy,Fantasy,Drama",1h 40m
+325,Avatar: Scene Deconstruction,"Dec 18, 2009",https://www.themoviedb.org/movie/287003,None,Documentary,None
+326,Spider-Man,"May 01, 2002",https://www.themoviedb.org/movie/557,U,"Fantasy,Action",2h 1m
+327,Iron Man,"Apr 30, 2008",https://www.themoviedb.org/movie/1726,UA,"Action,Science Fiction,Adventure",2h 6m
+328,The Haunting of Helena,"Jan 14, 2013",https://www.themoviedb.org/movie/159211,NR,"Horror,Thriller",1h 27m
+329,Dog,"Feb 17, 2022",https://www.themoviedb.org/movie/626735,PG-13,"Drama,Comedy",1h 42m
+330,Mulan,"Sep 04, 2020",https://www.themoviedb.org/movie/337401,U,"Adventure,Fantasy,Drama",1h 55m
+331,Thor: Love and Thunder,"Jul 06, 2022",https://www.themoviedb.org/movie/616037,None,"Action,Adventure,Fantasy",None
+332,Time Is Up,"Sep 09, 2021",https://www.themoviedb.org/movie/763148,16,"Romance,Drama",1h 48m
+333,Mulan,"Jun 18, 1998",https://www.themoviedb.org/movie/10674,G,"Animation,Family,Adventure",1h 28m
+334,A Silent Voice: The Movie,"Sep 17, 2016",https://www.themoviedb.org/movie/378064,PG-13,"Animation,Drama,Romance",2h 10m
+335,Straight Outta Nowhere: Scooby-Doo! Meets Courage the Cowardly Dog,"Sep 14, 2021",https://www.themoviedb.org/movie/843906,PG,"Animation,Comedy,Mystery,Family,Fantasy",1h 12m
+336,Matando Cabos 2: La Máscara del Máscara,"Oct 01, 2021",https://www.themoviedb.org/movie/772436,None,"Action,Comedy,Adventure",1h 42m
+337,Survive the Game,"Oct 08, 2021",https://www.themoviedb.org/movie/787310,R,"Action,Thriller,Crime",1h 37m
+338,Pacific Rim,"Jul 11, 2013",https://www.themoviedb.org/movie/68726,PG-13,"Action,Science Fiction,Adventure",2h 11m
+339,Frozen,"Nov 20, 2013",https://www.themoviedb.org/movie/109445,PG,"Animation,Family,Adventure,Fantasy",1h 42m
+340,Fast & Furious Presents: Hobbs & Shaw,"Aug 01, 2019",https://www.themoviedb.org/movie/384018,PG-13,"Action,Adventure,Comedy",2h 17m
+341,Major Grom: Plague Doctor,"Apr 01, 2021",https://www.themoviedb.org/movie/529106,12+,"Action,Adventure",2h 16m
+342,The Conjuring 2,"Jun 08, 2016",https://www.themoviedb.org/movie/259693,R,"Horror,Thriller",2h 14m
+343,Un Rabón Con Corazón,"Jan 27, 2022",https://www.themoviedb.org/movie/943158,None,Comedy,None
+344,AINBO: Spirit of the Amazon,"Feb 09, 2021",https://www.themoviedb.org/movie/588921,6+,"Adventure,Animation,Family,Fantasy",1h 24m
+345,Teenage Mutant Ninja Turtles,"Aug 07, 2014",https://www.themoviedb.org/movie/98566,PG-13,"Science Fiction,Action,Adventure,Comedy",1h 41m
+346,Vanguard,"Sep 30, 2020",https://www.themoviedb.org/movie/604822,PG-13,"Action,Adventure,Crime",1h 47m
+347,Crank: High Voltage,"Apr 16, 2009",https://www.themoviedb.org/movie/15092,R,"Action,Thriller,Crime",1h 36m
+348,Tangled,"Nov 24, 2010",https://www.themoviedb.org/movie/38757,PG,"Animation,Family",1h 40m
+349,Iron Man 3,"Apr 18, 2013",https://www.themoviedb.org/movie/68721,PG-13,"Action,Adventure,Science Fiction",2h 10m
+350,Sooryavanshi,"Nov 05, 2021",https://www.themoviedb.org/movie/592508,UA,"Action,Crime,Thriller",2h 25m
+351,Monster Family 2,"Jan 13, 2021",https://www.themoviedb.org/movie/823609,7,"Animation,Family",1h 43m
+352,Encounter,"Dec 03, 2021",https://www.themoviedb.org/movie/728526,R,"Adventure,Drama",1h 48m
+353,Up,"May 28, 2009",https://www.themoviedb.org/movie/14160,PG,"Animation,Comedy,Family,Adventure",1h 36m
+354,The Proposal,"Jun 01, 2009",https://www.themoviedb.org/movie/18240,PG-13,"Comedy,Romance,Drama",1h 48m
+355,Descendants: The Royal Wedding,"Aug 13, 2021",https://www.themoviedb.org/movie/805411,G,"TV Movie,Animation,Comedy,Family,Drama",22m
+356,The Marksman,"Jan 15, 2021",https://www.themoviedb.org/movie/634528,PG-13,"Action,Thriller,Crime,Adventure",1h 48m
+357,Three Steps Above Heaven,"Dec 03, 2010",https://www.themoviedb.org/movie/61979,12,"Romance,Drama",2h 2m
+358,Scooby-Doo,"Jun 14, 2002",https://www.themoviedb.org/movie/9637,PG,"Mystery,Adventure,Comedy",1h 28m
+359,Porn to Be Free,"Jun 24, 2016",https://www.themoviedb.org/movie/381749,None,Documentary,1h 19m
+360,Redemption Day,"Jan 08, 2021",https://www.themoviedb.org/movie/767304,R,Action,1h 40m
+361,The Last Mercenary,"Jul 30, 2021",https://www.themoviedb.org/movie/729720,15,"Action,Comedy",1h 50m
+362,Forever Out of My League,"Jan 31, 2022",https://www.themoviedb.org/movie/790525,M18,"Romance,Comedy",1h 44m
+363,Interstellar,"Nov 05, 2014",https://www.themoviedb.org/movie/157336,PG-13,"Adventure,Drama,Science Fiction",2h 49m
+364,A Day to Die,"Mar 04, 2022",https://www.themoviedb.org/movie/864116,R,"Action,Thriller,Crime",1h 41m
+365,Legion,"Jan 21, 2010",https://www.themoviedb.org/movie/22894,R,"Horror,Action,Fantasy",1h 40m
+366,Furious 7,"Apr 01, 2015",https://www.themoviedb.org/movie/168259,PG-13,"Action,Thriller,Crime,Adventure",2h 17m
+367,Cinderella,"Feb 22, 1950",https://www.themoviedb.org/movie/11224,G,"Family,Fantasy,Animation,Romance",1h 14m
+368,Weathering with You,"Jun 19, 2019",https://www.themoviedb.org/movie/568160,UA,"Animation,Drama,Fantasy,Romance",1h 52m
+369,The Princess and the Frog,"Dec 08, 2009",https://www.themoviedb.org/movie/10198,G,"Romance,Family,Animation",1h 38m
+370,Never Back Down: Revolt,"Nov 15, 2021",https://www.themoviedb.org/movie/763025,R,Action,1h 29m
+371,Thor: The Dark World,"Oct 30, 2013",https://www.themoviedb.org/movie/76338,PG-13,"Action,Adventure,Fantasy",1h 52m
+372,Last Shoot Out,"Dec 03, 2021",https://www.themoviedb.org/movie/887767,PG-13,"Western,Action,Thriller",1h 26m
+373,The Karate Kid,"Jun 10, 2010",https://www.themoviedb.org/movie/38575,PG,"Action,Adventure,Drama,Family",2h 20m
+374,LOL Surprise: The Movie,"Oct 08, 2021",https://www.themoviedb.org/movie/882206,G,"Animation,Family",47m
+375,World War Z,"Jun 20, 2013",https://www.themoviedb.org/movie/72190,PG-13,"Action,Drama,Horror,Science Fiction,Thriller",1h 56m
+376,Corpse Bride,"Sep 12, 2005",https://www.themoviedb.org/movie/3933,PG,"Romance,Fantasy,Animation",1h 17m
+377,Teen Titans Go! See Space Jam,"Jun 20, 2021",https://www.themoviedb.org/movie/834404,NR,"Animation,Action,Adventure,Comedy,Family,Fantasy,Science Fiction",1h 20m
+378,The Vault,"Mar 04, 2021",https://www.themoviedb.org/movie/630004,R,"Crime,Action,Thriller",1h 58m
+379,Peter Rabbit 2: The Runaway,"Mar 25, 2021",https://www.themoviedb.org/movie/522478,PG,"Family,Comedy,Adventure,Animation,Fantasy",1h 33m
+380,Mickey and Minnie Wish Upon a Christmas,"Dec 02, 2021",https://www.themoviedb.org/movie/864390,G,Animation,47m
+381,Army of the Dead,"May 14, 2021",https://www.themoviedb.org/movie/503736,R,"Action,Crime,Horror,Thriller",2h 28m
+382,Joker,"Oct 02, 2019",https://www.themoviedb.org/movie/475557,A,"Crime,Thriller,Drama",2h 2m
+383,Swim,"Aug 13, 2021",https://www.themoviedb.org/movie/861057,NR,"Horror,Action",1h 27m
+384,Spider-Man 3,"May 01, 2007",https://www.themoviedb.org/movie/559,PG-13,"Fantasy,Action,Adventure",2h 19m
+385,Sweet Girl,"Aug 18, 2021",https://www.themoviedb.org/movie/619297,R,Action,1h 50m
+386,"The Chronicles of Narnia: The Lion, the Witch and the Wardrobe","Dec 07, 2005",https://www.themoviedb.org/movie/411,PG,"Adventure,Family,Fantasy",2h 23m
+387,PAW Patrol: Jet To The Rescue,"Sep 10, 2020",https://www.themoviedb.org/movie/743439,AL,"Family,Animation",56m
+388,Home Sweet Home Alone,"Nov 12, 2021",https://www.themoviedb.org/movie/654974,PG,"Family,Comedy",1h 33m
+389,Scary Movie,"Jul 07, 2000",https://www.themoviedb.org/movie/4247,R,Comedy,1h 28m
+390,The Harder They Fall,"Oct 22, 2021",https://www.themoviedb.org/movie/618162,R,Western,2h 19m
+391,Wrong Turn,"Jan 26, 2021",https://www.themoviedb.org/movie/630586,R,"Horror,Thriller",1h 50m
+392,The Human Centipede (First Sequence),"Apr 26, 2009",https://www.themoviedb.org/movie/37169,R,Horror,1h 32m
+393,Rogue Hostage,"Jun 11, 2021",https://www.themoviedb.org/movie/825997,NR,"Action,Thriller",1h 34m
+394,Dragon Ball Z: Bio-Broly,"Jul 09, 1994",https://www.themoviedb.org/movie/39106,PG,"Animation,Action,Science Fiction",50m
+395,My Little Pony: A New Generation,"Sep 23, 2021",https://www.themoviedb.org/movie/597316,PG,"Animation,Family,Fantasy,Comedy,Music,Adventure",1h 31m
+396,Hancock,"Jul 01, 2008",https://www.themoviedb.org/movie/8960,PG-13,"Fantasy,Action",1h 32m
+397,Carriers,"Sep 04, 2009",https://www.themoviedb.org/movie/25769,PG-13,"Action,Drama,Horror,Science Fiction,Thriller",1h 24m
+398,Taken 3,"Dec 16, 2014",https://www.themoviedb.org/movie/260346,PG-13,"Thriller,Action",1h 49m
+399,The Parent Trap,"Jul 28, 1998",https://www.themoviedb.org/movie/9820,PG,"Comedy,Family",2h 8m
